@@ -25,7 +25,7 @@ Folder structure:
 
 Installation guide:
 1. if not already on your device, download and install SuperCollider 3.13.0 (https://supercollider.github.io/downloads)
-2. download compos-mentis-5-0 as zip from github
+2. download compos-mentis-5-0 as zip from github (https://github.com/andrejs-poikans/compos-mentis-5-0)
 3. unzip the file in a desired location on your device
 4. open supercollider app, navigate to top menu, choose from 'File' dropdown menu 'Open startup file'
 5. in finder navigate to the compos-mentis-5-0 directory, inside of it find the file called 'compos-mentis-5-0.scd', drag and drop this file in the supercollider editor and place it on top of the file, it should give you a path like "/Users/../compos-mentis-5-0/compos-mentis-5-0.scd", add '.load' to the end of this path so it looks like this "/Users/../compos-mentis/compos-mentis-5-0/compos-mentis-5-0.scd".load; make sure that there is no conflicting code under it (for the simplest option, just comment out the code bellow with /* code */)
