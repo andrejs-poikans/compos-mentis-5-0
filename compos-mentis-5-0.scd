@@ -756,6 +756,7 @@ s.waitForBoot({
 							~tone_list[~cue].postln;
 							postln(["density: ", ~density[~cue][3]]);
 							~menu.value_(~current);
+							~tTone.string = ~toneName[~cue];
 						},
 						{
 							if(keycode == ~backwardBtn,
@@ -766,6 +767,7 @@ s.waitForBoot({
 									~tone_list[~cue].postln;
 									postln(["density: ", ~density[~cue][3]]);
 									~menu.value_(~current);
+									~tTone.string = ~toneName[~cue];
 								},
 								{postln(["invalid"])}
 							);
