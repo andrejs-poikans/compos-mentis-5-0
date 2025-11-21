@@ -81,4 +81,5 @@ Notwithstanding the terms of the Creative Commons Attribution–NonCommercial 4.
 - Jon Heilbron
 - Rebecca Lane
 - Cenk Ergün
+  
 These permissions are personal to the individuals named above and do not extend to any other party.
