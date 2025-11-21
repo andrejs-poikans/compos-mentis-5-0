@@ -9,18 +9,19 @@ Folder structure shouold suppose to stay as it is for the program to work.
 Important: If this folder is moved to another location, update the path of this folder in supercollider startup.scd with the new path (as described in installation step 5.)
 
 Folder structure:
-.
-└── compos-mentis-5-0/
-    ├── README.md
-    ├── compos-mentis-5-0.scd
-    ├── samples/
-    │   ├── 1a.wav
-    │   ├── 1b.wav
-    │   └── ...
-    └── presets/
-        ├── base
-        ├── blank
-        └── ...
+```
+        compos-mentis-5-0/
+├── README.md
+├── compos-mentis-5-0.scd
+├── samples/
+│ ├── 1a.wav
+│ ├── 1b.wav
+│ └── ...
+└── presets/
+├── base
+├── blank
+└── ...
+```
 
 Installation guide:
 1. if not already on your device, download and install SuperCollider 3.13.0 (https://supercollider.github.io/downloads)
