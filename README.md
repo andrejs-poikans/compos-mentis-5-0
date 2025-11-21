@@ -30,8 +30,9 @@ Installation guide:
 4. open supercollider app, navigate to top menu, choose from 'File' dropdown menu 'Open startup file'
 5. in finder navigate to the compos-mentis-5-0 directory, inside of it find the file called 'compos-mentis-5-0.scd', drag and drop this file in the supercollider editor and place it on top of the file, it should give you a path like "/Users/../compos-mentis-5-0/compos-mentis-5-0.scd", add '.load' to the end of this path so it looks like this "/Users/../compos-mentis/compos-mentis-5-0/compos-mentis-5-0.scd".load; make sure that there is no conflicting code under it (for the simplest option, just comment out the code bellow with /* code */)
 6. press save file
-7. close supercollider and reopen it
-8. after a short loading time, the GUI should appear, that's all!
+7. make sure that the samples exist in the correct location, if not, copy them inside 'samples' folder just as a list of files – not within other folders
+8. close supercollider and reopen it
+9. after a short loading time, the GUI should appear, that's all!
 
 
 
