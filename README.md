@@ -34,6 +34,6 @@ Installation guide:
 8. close supercollider and reopen it
 9. after a short loading time, the GUI should appear, that's all!
 
-
+<img width="1440" height="807" alt="Screenshot 2025-11-21 at 22 36 00" src="https://github.com/user-attachments/assets/0d900ce3-8e39-4503-be93-b357e6fcc118" />
 
 
