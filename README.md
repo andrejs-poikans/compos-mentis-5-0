@@ -5,7 +5,7 @@ Audio output:
 Stereo, 44100 sample rate (this should be set before launching the application in system audio settings together with the audio device).
 
 Notes:
-Folder structure shouold suppose to stay as it is for the program to work. 
+Folder structure should suppose to stay as it is for the program to work. 
 Important: If this folder is moved to another location, update the path of this folder in supercollider startup.scd with the new path (as described in installation step 5.)
 
 Folder structure:
